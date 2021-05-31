@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class MouseRotation : MonoBehaviour
 {
+    //test//
+
     public bool lockCursor = true;
     [SerializeField] private float _turnSpeed = 3f;
 
